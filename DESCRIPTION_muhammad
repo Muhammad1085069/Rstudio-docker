@@ -4,6 +4,10 @@ Imports:
     terra,
     curl,
     stringr,
+    mesoclimAddTrees,
+    mesoclim,
+    gifski,
+    gganimate
     ncdf,
     tidyverse,
     tidyyr,
